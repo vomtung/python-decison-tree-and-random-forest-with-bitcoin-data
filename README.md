@@ -10,4 +10,4 @@ How to choose algorthm
 
 result
 
-explain
+explain and evaluation
