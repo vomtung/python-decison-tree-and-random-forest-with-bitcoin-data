@@ -11,3 +11,7 @@ How to choose algorthm
 result
 
 explain and evaluation
+
+data can be found at 
+-Kaggle
+-KDnuggets
