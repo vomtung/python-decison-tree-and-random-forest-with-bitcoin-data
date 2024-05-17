@@ -15,3 +15,5 @@ explain and evaluation
 data can be found at 
 -Kaggle
 -KDnuggets
+
+https://www.kaggle.com/datasets
