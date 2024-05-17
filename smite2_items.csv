@@ -1,0 +1,92 @@
+Name,Price,Tier,Strength,Attack_Speed_Percentage,Max_Mana,Intelligence,Max_Health,Cooldown_Rate_Percentage,Magical_Protection,Critical_Chance_Percentage,Lifesteal_Percentage,Physical_Protection,Magical_Penetration_Percentage,Physical_Penetration_Percentage,Mana_Regen,Movement_Speed_Percentage,Health_Regen,Passive,Active
+Axe,450,1,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Bow,350,1,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Circlet,350,1,0.0,0.0,115.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Gem,450,1,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Medallion,350,1,0.0,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Ring,350,1,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Ruinous Poison,500,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Enemy gods hit by your basic attacks have 20% reduced healing for 4s.,0
+Rune,350,1,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Sabre,650,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Scythe,700,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Shield,350,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0,0
+Adamantine Sickle,1400,2,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,While you are below 50% HP you gain 15 Strength.,0
+Battle Axe,1300,2,18.0,0.0,0.0,0.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Caestus,1200,2,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you are hit by a Hard CC effect you gain 15 Physical Protection and 15 Magical Protection for 4s.,0
+Circle of Protection,1000,2,0.0,0.0,0.0,0.0,0.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Evil Eye,1200,2,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0,0
+Flaming Pearl,1200,2,0.0,0.0,0.0,25.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Killing Stone,1125,2,0.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Kopesh,1500,2,10.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you Critically Strike an enemy god you gain 5% Movement Speed for 4s.,0
+Legionnaire Armor,1000,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0,0
+Lucerne Hammer,1250,2,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0,0
+Manchu Bow,1400,2,10.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,All targets hit by your basic attacks take 10 bonus Physical Damage.,0
+Odigba,1000,2,0.0,0.0,125.0,0.0,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you get a Kill or Assist on an enemy god you restore 5% of your max HP over 6s.,0
+Olmec Blue,1000,2,0.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Enemy gods within 6.4m lose 10 Physical Protection and 10 Magic Protection for 6s. Cooldown: 60s.
+Oracle Staff,1300,2,0.0,0.0,115.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,When you get a Kill or Assist on an enemy god you instantly restore 25% of your Mana.,0
+Ring of Dispel,1350,2,0.0,0.0,0.0,25.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Enemy gods hit by your Hard CC effects lose 10 Strength and 16 Intelligence for 4s.,0
+Skeggox,1200,2,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Veve Charm,1000,2,0.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,You and allied gods within 6.4m gain a 100 HP Shield for 6s. Cooldown: 60s.
+Zither,1250,2,15.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Amanita Charm,2750,3,0.0,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0,Create a Mushroom that Heals allied gods within 6.4m for 5% HP every 1s. Lasts for 5s. Cooldown: 60s.
+Atalanta's Bow,2750,3,30.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you hit an enemy god with a basic attack you gain 5% reduced Basic Attack Movement Penalty for 4s. Stacks up to 4 times.,0
+Avatar's Parashu,2900,3,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,You gain 20% increased Strength for 10s. Cooldown: 180s.
+Bagua Mirror,2450,3,0.0,0.0,0.0,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you take Magical Damage you gain 15 + 1*Level Strength and 20 + 2*Level Intelligence for 6s.,0
+Balor's Eye,2400,3,0.0,0.0,250.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0,0
+Baneful Rapier,2400,3,20.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you Critically Strike an enemy god you gain 15% Attack Speed for 4s.,0
+Bindings of Lyngvi,2300,3,0.0,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,Enemy gods hit by your Hard CC effects lose 15 Physical Protection and 15 Magical Protection for 4s.,0
+Blinking Amulet,2550,3,0.0,0.0,0.0,0.0,200.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0,You are Teleported to the targeted location. Cooldown: 180s.
+Blood-Bound Book,2675,3,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,When you drop below 30% HP you gain a 10% of your max HP + 50% Intelligence HP Shield for 6s. Cooldown: 90s.,0
+Blood-Forged Blade,2600,3,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.5,0.0,0.0,0.0,0.0,0.0,0.0,0,You gain a 10% of your max HP + 100% Strength HP Shield for 6s. Cooldown: 90s.
+Bragi's Harp,3000,3,30.0,20.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,All targets hit by your basic attacks take 5 + 2 per level bonus Magical Damage.,0
+Brawler's Ruin,2450,3,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,Enemy gods hit by your basic attacks have 40% reduced healing for 4s.,0
+Chronos' Pendant,2500,3,0.0,0.0,0.0,45.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Your active ability Cooldowns are reduced by 1s every 10s.,0
+Dagger of Frenzy,2900,3,30.0,17.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,You gain 60 Basic Attack Damage and 30% Attack Speed for 6s. Cooldown: 50s.
+Deathbringer,2950,3,30.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,You gain 25% increased Critical Strike Damage.,0
+Death Metal,2550,3,20.0,0.0,0.0,25.0,0.0,0.0,0.0,17.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,"You and allied gods within 6.4m gain 15 + 1*Level Strength, 20 + 2*Level Intelligence, and 20% Attack Speed for 6s. Cooldown: 60s."
+Divine Ruin,2650,3,0.0,0.0,300.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Enemy gods hit by your abilities have 40% reduced healing for 4s.,0
+Dreamer's Idol,2850,3,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,You gain 20% increased Intelligence for 10s. Cooldown: 180s.
+Eldritch Orb,2850,3,0.0,0.0,0.0,145.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Eye of Providence,2350,3,0.0,0.0,0.0,0.0,200.0,10.0,25.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0,Create a ward that Reveals enemies and enemy wards within 10.4m. Lasts for 60s. Cooldown 120s.
+Eye of the Storm,2700,3,25.0,0.0,0.0,0.0,225.0,0.0,30.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0,0
+Gem of Focus,2775,3,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you use an ability you gain 15 Intelligence and 3% Movement Speed for 10s. Stacks up to 3 times.,0
+Gem of Isolation,2400,3,0.0,0.0,175.0,40.0,225.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Enemy gods hit by your abilities are affected by a 15% Slow for 2s.,0
+Hand of The Abyss,2425,3,0.0,22.5,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you hit an enemy god or jungle boss with an ability you gain 15 Basic Attack Damage for 6s. Stacks up to 3 times.,0
+Helm of Darkness,2525,3,0.0,0.0,0.0,50.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,You become Stealthed for 6s. Cooldown: 120s.
+Helm of Radiance,2425,3,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,When you take Physical Damage you gain 10 Physical Protection for 6s. Stacks up to 5 times.,0
+Hussar's Wings,2350,3,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0,"You are Cleansed of all Slows, gain Slow Immunity, and 10% Movement Speed for 6s. Cooldown: 30s."
+Hydra's Lament,2450,3,45.0,0.0,225.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,When you use an ability you gain 30% increased Basic Attack Damage on your next basic attack for 8s.,0
+Jade Scepter,2900,3,0.0,0.0,225.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0,Enemy gods in front of you are Displaced up and away from you. Cooldown: 90s.
+Jotunn's Revenge,2800,3,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you get a Kill or Assist on an enemy god your Non-ultimate Cooldowns are reduced by 2s and your Ultimate Cooldown is reduced by 6s.,0
+Leviathan's Hide,2650,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,Enemies who hit you with basic attacks lose 5% Strength for 4s. Stacks up to 3 times.,0
+The Dagda's Greatclub,2900,3,20.0,0.0,0.0,0.0,175.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Enemies hit by your abilities take 15 + 30% of your Item Protections as bonus Physical Damage. This effect only triggers once per ability per god.,0
+Meteor Hammer,2900,3,20.0,15.0,0.0,0.0,225.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Enemies within 2.5m of your basic attack target take 15 + 12.5% of your Item Protections as bonus Physical Damage,0
+Musashi's Dual Swords,2450,3,20.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you Critically Strike an enemy god you gain 10% Movement Speed for 4s.,0
+Necronomicon,2825,3,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you get a Kill or Assist on an enemy god you gain 1 stack of 50 Intelligence but you also lose 20 Physical Protection and 20 Magical Protection per stack. Stacks up to 3 times. All stacks are removed on your death.,0
+Obsidian Shredder,2950,3,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Enemy gods hit by your abilities lose 1 per level Physical Protection for 4s.,0
+Phantom Ring,2400,3,0.0,0.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,"You and allied gods within 6.4m become Immune to Impediments, allowing you to walk through player made walls for 6s. Cooldown: 60s"
+Pharaoh's Curse,2400,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0,Enemies within 5.6m are affected by a 25% Slow and have 25% reduced Attack Speed for 6s. Cooldown: 40s.
+Phoenix Feather,2650,3,0.0,0.0,0.0,0.0,250.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,You are Healed for 300 HP + 30% of your Missing HP. Cooldown: 240s.
+Polynomicon,2725,3,0.0,0.0,200.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,When you use an ability you gain 30% of your Intelligence as bonus Magical Damage on your next basic attack.,0
+Qin's Blade,2950,3,30.0,17.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Enemy gods hit by your basic attacks take 6% of their max HP as bonus Physical Damage.,0
+Ruinous Ankh,2500,3,0.0,0.0,150.0,0.0,250.0,0.0,26.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,Enemies within 8.8m have 40% reduced healing.,0
+Scepter of Dominion,2400,3,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,After 2s an area is created causing any gods that enter into it or are already within it to become affected by Stasis. Lasts for 2s. Cooldown: 240s.
+Screeching Gargoyle,2200,3,0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Enemy gods in front of you are Silenced for 2s. Cooldown: 60s.
+Serpent Spear,2650,0,15.0,0.0,175.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0,0
+Shogun's Ofuda,2300,0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,You and allies within 8.8m gain 20% Attack Speed.,0
+Silken Mailcoat,2250,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,Enemies within 8.8m lose 20% Attack Speed and 20% Critical Strike Chance.,0
+Soul Devourer,2850,0,0.0,0.0,250.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,Enemy gods hit by your abilities take 15% of their Current HP as bonus Magical Damage over 4s. This effect only triggers once per ability per god.,0
+The Cosmic Horror,2925,0,0.0,0.0,150.0,125.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,If you have more than 225 Item Intelligence you gain 15 Cooldown Rate.,0
+Stampede,2600,0,0.0,0.0,0.0,0.0,325.0,0.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0,You and allied gods within 6.4m gain 25% Movement Speed for 4s. Cooldown: 180s.
+Sun Beam Bow,2550,0,55.0,17.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Emblem of Namaka,2250,0,0.0,0.0,0.0,0.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,You and allied gods within 6.4m gain a 100 + 12*Level HP Shield for 4s. Cooldown: 60s
+Talisman Of Purification,2550,0,0.0,0.0,0.0,0.0,250.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,You and allied gods within 6.4m are Cleansed of all CC and gain CC Immunity for 1s. Cooldown: 180s.
+Tekko-Kagi,2800,0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you use an ability you gain 3% Movement Speed and 5 Cooldown Rate for 10s. Stacks up to 3 times.,0
+The Executioner,2700,0,10.0,12.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"When you damage an enemy god or jungle boss with a basic attack, gain 10% Physical Penetration for 4s. Stacks up to 5 times.",0
+The Nemes,2300,0,0.0,0.0,150.0,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,When you get an Assist on a lane minion you gain 1 stack of 1 Physical Protection and 1 Magical Protection. Stacks up to 40 times.,0
+The Reaper,2900,0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,"When you hit an enemy god below 50% HP, you gain 15% Lifesteal for 4s.",0
+The World Stone,2600,0,0.0,0.0,0.0,95.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Your Ultimate Cooldown is reduced by 20%.,0
+Totem of Death,2950,0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"When you hit an enemy god or jungle boss with an ability, gain 10% Magical Penetration for 4s. Stacks up to 5 times.",0
+Triton's Conch,2750,0,0.0,0.0,175.0,55.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,You and allies within 8.8m gain 7 + 0.5*Level Strength and 10 + 1*Level Intelligence.,0
+Wish-Granting Pearl,2500,0,0.0,0.0,350.0,55.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+Yogi's Necklace,2700,0,0.0,0.0,200.0,0.0,450.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,8.0,0,0
